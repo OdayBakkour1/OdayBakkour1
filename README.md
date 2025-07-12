@@ -1,21 +1,82 @@
-# 💫 About Me:
-🔨 I’m currently working on: AI-powered content platforms and cybersecurity news automation<br><br>👯 I’m looking to collaborate on: open-source SEO tools and AI-powered blogging platforms<br><br>🤝 I’m looking for help with: expanding multilingual SEO reach and UX improvements<br><br>🌱 I’m currently learning: advanced Next.js serverless functions and Supabase Edge optimization<br><br>💬 Ask me about: technical SEO, AI content automation, or building tools with Vercel + Supabase<br><br>⚡ Fun fact: I once built a full WordPress alternative just to regain control over content workflows
+<div align="center">
 
+Oday Bakkour
+SEO Expert | AI Content Automation Specialist
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/	oday-bakkour) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:	contact@seo-hunter.net) 
+👨‍💻 About Me
+I'm a passionate developer and SEO expert focused on building AI-powered content platforms and automating cybersecurity news. I enjoy tackling challenges in technical SEO and creating innovative tools to push the boundaries of what's possible on the web.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OdayBakkour1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OdayBakkour1&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OdayBakkour1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🔨 Working on: AI-powered content platforms & cybersecurity news automation.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OdayBakkour1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+👯 Looking to collaborate on: Open-source SEO tools & AI-powered blogging platforms.
 
----
-[![](https://visitcount.itsvg.in/api?id=OdayBakkour1&icon=0&color=11)](https://visitcount.itsvg.in)
+🤝 Seeking help with: Expanding multilingual SEO reach & UX improvements.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 Learning: Advanced Next.js serverless functions & Supabase Edge optimization.
+
+💬 Ask me about: Technical SEO, AI content automation, or building with Vercel + Supabase.
+
+⚡ Fun fact: I once built a full WordPress alternative from scratch just to regain control over content workflows.
+
+🛠️ My Tech Stack
+I work with a variety of tools and technologies to bring ideas to life.
+
+Frontend
+<p>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+</p>
+
+Backend & Database
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+DevOps & Cloud
+<p>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+Other Tools
+<p>
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+</p>
+
+📊 My GitHub Stats
+<div align="center">
+
+</div>
+
+🏆 Top Contributed Repo
+<div align="center">
+
+</div>
+
+📫 Get In Touch
+<div align="center">
+
+<a href="https://linkedin.com/in/oday-bakkour" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:contact@seo-hunter.net" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<div align="center">
+
+</div>
