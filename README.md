@@ -1,6 +1,7 @@
 <div align="center">
 
-Hi there, I'm Oday Bakkour 👋
+<img src="https://seo-hunter.net/wp-content/uploads/elementor/thumbs/SEO-Hunter-2-r1b6jgwog9olz96ncm1j65wpo5b139ckv2zxgc0jr4.png" alt="Oday Bakkour - SEO Hunter Logo" width="400"/>
+
 Technical SEO Specialist & AI Developer
 Building the future of AI-powered content and SEO tools, inspired by a passion for automation and efficiency.
 
