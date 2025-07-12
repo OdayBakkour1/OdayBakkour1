@@ -1,10 +1,18 @@
 <div align="center">
 
-Oday Bakkour
-SEO Expert | AI Content Automation Specialist
+Hi there, I'm Oday Bakkour 👋
+Technical SEO Specialist & AI Developer
+Building the future of AI-powered content and SEO tools, inspired by a passion for automation and efficiency.
+
+<a href="https://linkedin.com/in/oday-bakkour" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:contact@seo-hunter.net" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://seo-hunter.net/" target="_blank"><img src="https://img.shields.io/badge/Website-00C45D?style=for-the-badge&logo=slickpic&logoColor=white" alt="Website"></a>
+
 </div>
 
-👨‍💻 About Me
+<details>
+<summary><h3>👨‍💻 About Me</h3></summary>
+<br>
 I'm a passionate developer and SEO expert focused on building AI-powered content platforms and automating cybersecurity news. I enjoy tackling challenges in technical SEO and creating innovative tools to push the boundaries of what's possible on the web.
 
 🔨 Working on: AI-powered content platforms & cybersecurity news automation.
@@ -19,7 +27,11 @@ I'm a passionate developer and SEO expert focused on building AI-powered content
 
 ⚡ Fun fact: I once built a full WordPress alternative from scratch just to regain control over content workflows.
 
-🛠️ My Tech Stack
+</details>
+
+<details>
+<summary><h3>🛠️ My Tech Stack</h3></summary>
+<br>
 I work with a variety of tools and technologies to bring ideas to life.
 
 Frontend
@@ -54,6 +66,7 @@ Other Tools
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </p>
+</details>
 
 📊 My GitHub Stats
 <div align="center">
@@ -62,18 +75,6 @@ Other Tools
 
 🏆 Top Contributed Repo
 <div align="center">
-
-</div>
-
-📫 Get In Touch
-<div align="center">
-
-<a href="https://linkedin.com/in/oday-bakkour" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:contact@seo-hunter.net" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 
 </div>
 
